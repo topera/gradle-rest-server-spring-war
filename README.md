@@ -23,4 +23,4 @@ Tech Stack
 * IntelliJ IDEA 2016.1.4
 * Gradle 3.5.1
 
-To take a look in other tutorials, please see https://github.com/topera/hello-world-index
+To take a look in other projects, please see https://github.com/topera/index
